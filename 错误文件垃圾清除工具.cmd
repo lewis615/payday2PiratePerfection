@@ -1,0 +1,3 @@
+del "*.mdmp"
+del "*.mdmp"
+pause 已经清理完毕，按任意键退出...

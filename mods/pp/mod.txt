@@ -1,0 +1,23 @@
+{
+	"name" : "Pirate Perfection",
+	"description" : "",
+	"author" : "",
+	"contact" : "",
+	"hooks" : [
+		{ 	"hook_id" : "lib/entry",
+			"script_path" : "__require.lua"
+		},
+		{ 	"hook_id" : "lib/entry",
+			"script_path" : "trainer/freeflight.lua"
+		},
+		{ 	"hook_id" : "lib/entry",
+			"script_path" : "trainer/pre_init.lua"
+		},
+		{ 	"hook_id" : "lib/entry",
+			"script_path" : "trainer/init.lua"
+		},
+		{ 	"hook_id" : "lib/units/props/texttemplatebase",
+			"script_path" : "trainer/addons/stock_ticker.lua"
+		}
+	]
+}
