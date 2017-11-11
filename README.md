@@ -1,9 +1,9 @@
-# payday2PiratePerfection
-payday2 PiratePerfection 中文版
+# Pirate Perfection Reborn
+完美海盗：重生
 
+汉化 By y123ao6@3DM 
 
 需要BLT支持
-
 
 F1 内置游戏总菜单 
 
