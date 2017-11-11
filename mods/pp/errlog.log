@@ -1,9 +1,0 @@
-(05/02/17 21:15:20) [ERROR in safecall ]:
-(08/23/17 20:45:39) [ERROR Backuper:backup() ]: Failed to backup string NewShotgunBase._fire_raycast Error thrown:
-(08/23/17 20:45:39) [ERROR Backuper:hijack() ]: Error hijacking function NewShotgunBase._fire_raycast Error thrown:
-(08/24/17 18:37:43) [ERROR in safecall ]:
-(08/24/17 18:55:23) [ERROR in safecall ]:
-(08/26/17 18:16:15) [ERROR interactbytweak() ]: Local player isn't alive!
-(08/26/17 18:16:16) [ERROR interactbytweak() ]: Local player isn't alive!
-(09/03/17 22:53:01) [ERROR interactbytweak() ]: Local player isn't alive!
-(09/03/17 22:53:02) [ERROR interactbytweak() ]: Local player isn't alive!
